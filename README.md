@@ -1,1 +1,0 @@
-# Smart-Platform-Test
